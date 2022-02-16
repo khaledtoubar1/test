@@ -1,0 +1,43 @@
+body{
+
+  background-image: url(dog2.jpg);
+  background-position: center;
+  background-size: 1370px;
+}
+
+.login-box{
+    max-width: 700px;
+    float: none;
+    margin: 280 0 0 -120px ;
+    
+    padding: 30px;
+   
+}
+
+
+
+.login-left{
+    background: rgba(248,248,255);
+    padding: 30px;
+    border: 10px;
+      border-bottom-left-radius: 30px 20px;
+            border-top-left-radius: 30px 20px;
+
+
+}
+
+.login-right{
+
+    border: 10px;
+    border-bottom-right-radius: 30px 20px;
+        border-top-right-radius: 30px 20px;
+
+        background: rgba(211, 211, 211, 0.5);
+
+    
+    padding: 30px;
+}
+
+.form-control{
+    background-color: transparent !important;
+    }
